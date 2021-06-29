@@ -1,6 +1,575 @@
 {
-  "items":
-  [
-
-  ]
+   "items": [
+      {
+         "id": 1000,
+         "name": "voluptate duis",
+         "price": "1.6",
+         "count": 27,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "cold",
+            "cold",
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1001,
+         "name": "anim magna",
+         "price": "4.3",
+         "count": 69,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "appetizer",
+            "soup"
+         ]
+      },
+      {
+         "id": 1002,
+         "name": "pariatur ipsum",
+         "price": "2.5",
+         "count": 50,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "grill",
+            "cold",
+            "cold"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "cupidatat id",
+         "price": "6.5",
+         "count": 3,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "appetizer",
+            "soup",
+            "grill"
+         ]
+      },
+      {
+         "id": 1004,
+         "name": "veniam anim",
+         "price": 1,
+         "count": 61,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "soup",
+            "appetizer",
+            "grill"
+         ]
+      },
+      {
+         "id": 1005,
+         "name": "incididunt incididunt",
+         "price": 8,
+         "count": 46,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "soup"
+         ]
+      },
+      {
+         "id": 1006,
+         "name": "velit reprehenderit",
+         "price": "5.9",
+         "count": 44,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "grill"
+         ]
+      },
+      {
+         "id": 1007,
+         "name": "irure cillum",
+         "price": "3.8",
+         "count": 51,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1008,
+         "name": "aliquip amet",
+         "price": "8.3",
+         "count": 26,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "appetizer",
+            "soup"
+         ]
+      },
+      {
+         "id": 1009,
+         "name": "et labore",
+         "price": "6.8",
+         "count": 25,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "hot",
+            "soup",
+            "cold"
+         ]
+      },
+      {
+         "id": 1010,
+         "name": "consequat velit",
+         "price": "4.9",
+         "count": 60,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "cold",
+            "grill"
+         ]
+      },
+      {
+         "id": 1011,
+         "name": "qui et",
+         "price": "9.3",
+         "count": 32,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1012,
+         "name": "commodo amet",
+         "price": "7.1",
+         "count": 88,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "cold",
+            "cold",
+            "cold"
+         ]
+      },
+      {
+         "id": 1013,
+         "name": "commodo eu",
+         "price": "1.5",
+         "count": 62,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "grill"
+         ]
+      },
+      {
+         "id": 1014,
+         "name": "incididunt ullamco",
+         "price": "6.1",
+         "count": 82,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "soup"
+         ]
+      },
+      {
+         "id": 1015,
+         "name": "quis reprehenderit",
+         "price": "3.2",
+         "count": 66,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "soup",
+            "dessert",
+            "grill"
+         ]
+      },
+      {
+         "id": 1016,
+         "name": "ut consequat",
+         "price": "1.2",
+         "count": 62,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "dessert",
+            "grill",
+            "cold"
+         ]
+      },
+      {
+         "id": 1017,
+         "name": "labore esse",
+         "price": "9.2",
+         "count": 9,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "grill",
+            "dessert"
+         ]
+      },
+      {
+         "id": 1018,
+         "name": "minim in",
+         "price": "4.5",
+         "count": 72,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "grill",
+            "hot"
+         ]
+      },
+      {
+         "id": 1019,
+         "name": "laboris labore",
+         "price": "5.9",
+         "count": 33,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "cold"
+         ]
+      },
+      {
+         "id": 1020,
+         "name": "aliqua voluptate",
+         "price": "6.6",
+         "count": 97,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "appetizer",
+            "hot"
+         ]
+      },
+      {
+         "id": 1021,
+         "name": "consectetur mollit",
+         "price": "1.7",
+         "count": 41,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "hot",
+            "appetizer",
+            "cold"
+         ]
+      },
+      {
+         "id": 1022,
+         "name": "officia est",
+         "price": "7.4",
+         "count": 36,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "soup",
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1023,
+         "name": "velit tempor",
+         "price": "1.9",
+         "count": 39,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "soup",
+            "grill",
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1024,
+         "name": "sunt adipisicing",
+         "price": "4.2",
+         "count": 73,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "appetizer",
+            "dessert"
+         ]
+      },
+      {
+         "id": 1025,
+         "name": "nostrud aute",
+         "price": 9,
+         "count": 81,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "hot",
+            "cold",
+            "cold"
+         ]
+      },
+      {
+         "id": 1026,
+         "name": "voluptate deserunt",
+         "price": "9.2",
+         "count": 44,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1027,
+         "name": "aute sunt",
+         "price": "4.1",
+         "count": 5,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "appetizer",
+            "soup",
+            "grill"
+         ]
+      },
+      {
+         "id": 1028,
+         "name": "non ad",
+         "price": "2.7",
+         "count": 52,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "soup",
+            "soup",
+            "hot"
+         ]
+      },
+      {
+         "id": 1029,
+         "name": "eu amet",
+         "price": 3,
+         "count": 23,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "dessert",
+            "soup",
+            "dessert"
+         ]
+      },
+      {
+         "id": 1030,
+         "name": "dolor fugiat",
+         "price": "1.5",
+         "count": 96,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1031,
+         "name": "aliqua cupidatat",
+         "price": "6.2",
+         "count": 39,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "hot",
+            "dessert"
+         ]
+      },
+      {
+         "id": 1032,
+         "name": "sint incididunt",
+         "price": "9.4",
+         "count": 21,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "dessert"
+         ]
+      },
+      {
+         "id": 1033,
+         "name": "Lorem ea",
+         "price": "2.9",
+         "count": 73,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "appetizer",
+            "hot",
+            "grill"
+         ]
+      },
+      {
+         "id": 1034,
+         "name": "dolor adipisicing",
+         "price": "4.7",
+         "count": 64,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "hot",
+            "dessert",
+            "cold"
+         ]
+      },
+      {
+         "id": 1035,
+         "name": "magna dolore",
+         "price": "1.6",
+         "count": 65,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "hot",
+            "appetizer",
+            "hot"
+         ]
+      },
+      {
+         "id": 1036,
+         "name": "nisi eiusmod",
+         "price": "9.6",
+         "count": 5,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "appetizer",
+            "grill",
+            "hot"
+         ]
+      },
+      {
+         "id": 1037,
+         "name": "irure sint",
+         "price": "2.4",
+         "count": 33,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "grill",
+            "dessert"
+         ]
+      },
+      {
+         "id": 1038,
+         "name": "fugiat adipisicing",
+         "price": "4.3",
+         "count": 38,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "cold",
+            "cold",
+            "cold"
+         ]
+      },
+      {
+         "id": 1039,
+         "name": "adipisicing tempor",
+         "price": "9.4",
+         "count": 45,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "cold",
+            "appetizer",
+            "soup"
+         ]
+      },
+      {
+         "id": 1040,
+         "name": "pariatur commodo",
+         "price": "6.4",
+         "count": 8,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "cold",
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1041,
+         "name": "anim cillum",
+         "price": "2.6",
+         "count": 11,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "dessert",
+            "grill",
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1042,
+         "name": "dolore ex",
+         "price": "4.7",
+         "count": 96,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "grill",
+            "cold"
+         ]
+      },
+      {
+         "id": 1043,
+         "name": "eu aute",
+         "price": "8.3",
+         "count": 28,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "hot",
+            "hot"
+         ]
+      },
+      {
+         "id": 1044,
+         "name": "aute deserunt",
+         "price": "1.1",
+         "count": 8,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "dessert",
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1045,
+         "name": "duis est",
+         "price": "4.3",
+         "count": 65,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "dessert",
+            "dessert",
+            "cold"
+         ]
+      },
+      {
+         "id": 1046,
+         "name": "elit do",
+         "price": "9.9",
+         "count": 88,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "dessert"
+         ]
+      },
+      {
+         "id": 1047,
+         "name": "deserunt nisi",
+         "price": "6.4",
+         "count": 17,
+         "img": "http://localhost:8000/img/3823283.png",
+         "category": [
+            "appetizer",
+            "hot",
+            "grill"
+         ]
+      },
+      {
+         "id": 1048,
+         "name": "quis sit",
+         "price": "3.4",
+         "count": 12,
+         "img": "http://localhost:8000/img/6754396.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1049,
+         "name": "sunt pariatur",
+         "price": "2.5",
+         "count": 2,
+         "img": "http://localhost:8000/img/3659639.png",
+         "category": [
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1050,
+         "name": "in deserunt",
+         "price": "1.8",
+         "count": 63,
+         "img": "http://localhost:8000/img/2769929.png",
+         "category": [
+            "hot",
+            "dessert"
+         ]
+      }
+   ]
 }
