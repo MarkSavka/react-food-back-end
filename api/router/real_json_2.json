@@ -1,0 +1,137 @@
+{
+   "items": [
+      {
+         "id": 1000,
+         "name": "Борщ",
+         "price": 103,
+         "count": 21,
+         "img": "http://localhost:8000/img/soup_1.png",
+         "category": [
+            "hot",
+            "soup"
+         ]
+      },
+      {
+         "id": 1001,
+         "name": "Грибний суп",
+         "price": 204,
+         "count": 49,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "hot",
+            "soup"
+         ]
+      },
+      {
+         "id": 1002,
+         "name": "Чанахи",
+         "price": 176,
+         "count": 34,
+         "img": "http://localhost:8000/img/soup_3.png",
+         "category": [
+            "hot",
+            "soup"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Морозиво",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "dessert"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Вареники з картоплею",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Вареники з вишнею",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Вареники з картоплею та грибами",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "hot"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Цезар",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/salad.png",
+         "category": [
+            "cold"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Морський салат",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/salad.png",
+         "category": [
+            "cold"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Салат з креветками",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/salad.png",
+         "category": [
+            "cold"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Канапе",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Сало",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "appetizer"
+         ]
+      },
+      {
+         "id": 1003,
+         "name": "Бутерброди з ікрою",
+         "price": 345,
+         "count": 18,
+         "img": "http://localhost:8000/img/soup_2.png",
+         "category": [
+            "appetizer"
+         ]
+      }
+   ]
+}

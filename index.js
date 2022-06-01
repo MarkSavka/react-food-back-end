@@ -1,26 +1,26 @@
-const express = require('express')
-const app = express()
-const port = 8000
-const cors = require('cors')
-const path = require('path')
+const express = require("express");
+const app = express();
+const port = 8000;
+const cors = require("cors");
+const path = require("path");
 
 // const jsonData = require('./api/router/json.json')
-const jsonData = require('./api/router/real_json.json')
+const jsonData = require("./api/router/real_json_2.json");
 
-app.use( cors() );
+app.use(cors());
 
-const dir = path.join(__dirname, 'public');
+const dir = path.join(__dirname, "public");
 
 app.use(express.static(dir));
 
-app.get('/', (req, res) => {
-   res.send('Hello World!')
-})
+app.get("/", (req, res) => {
+  res.send("Hello World!");
+});
 
-app.get('/item', (req, res) => {
-   res.send(jsonData)
-})
+app.get("/item", (req, res) => {
+  res.send(jsonData);
+});
 
 app.listen(port, () => {
-   console.log(`Example app listening at http://localhost:${port}`)
-})
+  console.log(`Example app listening at http://localhost:${port}`);
+});
